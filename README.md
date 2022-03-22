@@ -107,7 +107,7 @@ The document consists of two parts:
 > 2. Landing Page style:
 >    Instead of creating a new page for each TAB, we decided to go with a long page format.
 >
-> **Decision Risks: ** 
+> **Decision Risks:** 
 >
 > 1. In the process of making a web page, it is possible that everyone has different ideas, resulting in the finished product can not meet the expectations of some members.-More communication
 > 2. As more content needs to be recorded on the Landing Page, pages can become too long in the later stages.
@@ -130,10 +130,10 @@ The document consists of two parts:
 >
 > **Decision results:**
 >
-> - [x] **1. **Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
+> - [x] **1.** Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
 > - [x] **2.** Fill this decision in the Decision Log.
 >
-> **Decision Risks: **
+> **Decision Risks:**
 >
 > 1. We don't have a Google Drive membership, so we can only store up to 15 gigabytes of files. - We thought that the number of documents we wanted to store would not exceed 15GB after discussion and analysis.
 > 2. Storing data in Google Drive is not as secure as Onedrive.
@@ -164,7 +164,7 @@ The document consists of two parts:
 >
 > To Do：
 >
-> - [x] **1. ** Conducted competitive product analysis for the four apps. 
+> - [x] **1.** Conducted competitive product analysis for the four apps. 
 >   a. Yuhao Zhai, Xinyue Hu, Tianqi Tang, and Shuyi Chen are each responsible for an APP. 
 >   The distribution is as follows:
 >        Yuhao Zhai - FodMap
@@ -174,7 +174,7 @@ The document consists of two parts:
 >
 >   b. Bowen Zhang and Shiyun Zhu each review and supplement the analysis reports of two competing products.
 >
-> - [ ] **2. **Optimize the Landing Page by adding necessary text and necessary links.
+> - [ ] **2.** Optimize the Landing Page by adding necessary text and necessary links.
 >
 >   - [x] a. text - Yuhao Zhai
 >
@@ -182,13 +182,13 @@ The document consists of two parts:
 >
 >   - [ ] c. Web - Shuyi Chen & Tianqi Tang
 >
-> - [ ] **3. **We'll have a technical meeting before the end of Week 5： programming language, development environment, naming conventions.
+> - [ ] **3.** We'll have a technical meeting before the end of Week 5： programming language, development environment, naming conventions.
 >
 > - [x] **4.** Improve the decision record page, including the new decision risk analysis, and decision situation (who participated in the decision, etc.) - Shiyun Zhu 
 >
-> - [x] **5. **Create a shared EXCEL sheet and fill it out according to the division of labor in the previous decision.  - Shuyi Chen & Xinyue Hu
+> - [x] **5.** Create a shared EXCEL sheet and fill it out according to the division of labor in the previous decision.  - Shuyi Chen & Xinyue Hu
 >
-> - [x] **6. **Clean and maintain OneDrive regularly.-Shuyi Chen 
+> - [x] **6.** Clean and maintain OneDrive regularly.-Shuyi Chen 
 >
 > The follow-up to be done:
 >
@@ -196,7 +196,7 @@ The document consists of two parts:
 > 2. Complete UML.
 > 3. App Function analysis.
 >
-> **Decision Risks: **
+> **Decision Risks:**
 >
 > 1. It is difficult for members outside Australia to download the competing app.
 > 2. Forgot to check the validity of links.
@@ -229,7 +229,7 @@ The document consists of two parts:
 >    6. Shiyun Zhu - Summarize
 > 2. According to the advice, build a *Project log file* to record decisions witch are approved and will be implemented, helping us manage projects better and improve ourselves.
 >
-> **Decision Risks: **NA
+> **Decision Risks:** NA
 >
 > **Decision process and decision analysis:** [link to the document]()
 

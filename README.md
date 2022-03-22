@@ -84,7 +84,7 @@ The document consists of two parts:
 >
 > **Decision-making situations**： All agreed
 >
-> **Decision topic: **What we still need to do for the Landing Page.
+> **Decision topic:** What we still need to do for the Landing Page.
 >
 > **Decision material:** 
 >
@@ -122,7 +122,7 @@ The document consists of two parts:
 >
 > **Decision-making situations**： Vote: 3 agreed, 2 disagreed and 1 abstained.-pass
 >
-> **Decision topic: **Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
+> **Decision topic:** Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
 >
 > **Decision material:** 
 >

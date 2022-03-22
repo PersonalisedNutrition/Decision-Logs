@@ -107,7 +107,7 @@ The document consists of two parts:
 > 2. Landing Page style:
 >    Instead of creating a new page for each TAB, we decided to go with a long page format.
 >
-> **Decision Risks: **
+> **Decision Risks: ** 
 >
 > 1. In the process of making a web page, it is possible that everyone has different ideas, resulting in the finished product can not meet the expectations of some members.-More communication
 > 2. As more content needs to be recorded on the Landing Page, pages can become too long in the later stages.

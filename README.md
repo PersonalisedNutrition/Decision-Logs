@@ -174,13 +174,13 @@ The document consists of two parts:
 >
 >   b. Bowen Zhang and Shiyun Zhu each review and supplement the analysis reports of two competing products.
 >
-> - [ ] **2.** Optimize the Landing Page by adding necessary text and necessary links.
+> - [x] **2.** Optimize the Landing Page by adding necessary text and necessary links.
 >
 >   - [x] a. text - Yuhao Zhai
 >
 >   - [x] b. Links - Shiyun Zhu
 >
->   - [ ] c. Web - Shuyi Chen & Tianqi Tang
+>   - [x] c. Web - Shuyi Chen & Tianqi Tang
 >
 > - [ ] **3.** We'll have a technical meeting before the end of Week 5： programming language, development environment, naming conventions.
 >

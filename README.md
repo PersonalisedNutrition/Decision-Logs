@@ -90,8 +90,8 @@ The document consists of two parts:
 >
 > **Decision results:**
 >
-> **1.** A client is better to have more than 1 nutritionist.
-> **2.** The number of matched nutritionist should be limited to 3.
+> 1. A client is better to have more than 1 nutritionist.
+> 2. The number of matched nutritionist should be limited to 3.
 >
 > **Decision Risks:**
 >

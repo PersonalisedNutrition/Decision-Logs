@@ -76,6 +76,31 @@ The document consists of two parts:
 
 ---
 
+##### Time: 2022.4.12 How many nutritionists are best for a client?
+
+> **Decision members:** All members
+>
+> **Decision-making situations**： All agreed
+>
+> **Decision topic:** How many nutritionists are best for a client?
+>
+> **Decision material:** 
+>
+> Group discussion
+>
+> **Decision results:**
+>
+> - [x] **1.** A client is better to have more than 1 nutritionist.
+> - [x] **2.** The number of matched nutritionist should be limited to 3.
+>
+> **Decision Risks:**
+>
+> 1. Increasing the difficulty of database design, as well as the complexity of user management.
+> 2. Clients may lack the ability to judge the quality of the solutions provided by different nutritionists.
+> 3. The certification of nutritionists needs to be strengthened.
+>
+> **Decision process and decision analysis:**
+> 
 ##### Time: 2022.3.21 What we still need to do for the Landing Page.
 
 > **Decision members:** Members responsible for producing Landing pages include:

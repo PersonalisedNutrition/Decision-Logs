@@ -76,6 +76,31 @@ The document consists of two parts:
 
 ---
 
+##### Time: 2022.4.12 How to avoid possible mistakes?
+
+> **Decision members:** All members
+>
+> **Decision-making situations**： All agreed
+>
+> **Decision topic:** How to avoid possible mistakes?
+>
+> **Decision material:** 
+>
+> Group discussion
+>
+> **Decision results:**
+> 
+> 1.There are two types of checks, the first is self-checking and the second is having another group member to check.
+> 2.Create a "check ring" to avoid possible mistakes
+> 
+>
+> **Decision Risks:**
+>
+> 1.The workload of each team member will increase.
+> 2.Work efficiency may be reduced.
+> 
+> **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
+> 
 ##### Time: 2022.4.12 How many nutritionists are best for a client?
 
 > **Decision members:** All members
@@ -91,7 +116,7 @@ The document consists of two parts:
 > **Decision results:**
 >
 > 1. A client is better to have more than 1 nutritionist.
-> 2. The number of matched nutritionist should be limited to 3.
+> 2. The number of matched nutritionist should be limited to 
 >
 > **Decision Risks:**
 >
@@ -99,7 +124,7 @@ The document consists of two parts:
 > 2. Clients may lack the ability to judge the quality of the solutions provided by different nutritionists.
 > 3. The certification of nutritionists needs to be strengthened.
 >
-> **Decision process and decision analysis:**
+> **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
 > 
 ##### Time: 2022.3.21 What we still need to do for the Landing Page.
 

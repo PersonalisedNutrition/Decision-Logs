@@ -93,7 +93,7 @@ The document consists of two parts:
 > 
 >  We compared all the database listed on Firebase and finally select the cloud storage for our project.
 >  
-![image](https://user-images.githubusercontent.com/100653606/166412239-4040682d-329b-4ef0-8a0e-f49f77a0731d.png)
+> ![image](https://user-images.githubusercontent.com/100653606/166412239-4040682d-329b-4ef0-8a0e-f49f77a0731d.png)
 > 
 > **Decision Risks:**
 >

@@ -76,6 +76,37 @@ The document consists of two parts:
 
 ---
 
+##### Time: 2022.5.02 Which database are suitable for the project?
+
+> **Decision members:** All members
+>
+> **Decision-making situations**： All agreed
+>
+> **Decision topic:** Which database are suitable for the project?
+>
+> **Decision material:** 
+>
+> Group discussion
+> Firebase google documents
+>
+> **Decision results:**
+> 
+>  We compared all the database listed on Firebase and finally select the cloud storage for our project.
+>  
+>	Cloud	Realtime	Storage
+Amount of data stored	High-capacity storage	Light weighted storage	High-capacity storage
+Type of data stored	Structured data	Structured data	"Unstructured data such as
+images, videos and audios, etc."
+Query efficiency	Fast and accurate	Fast but not precise	Normal
+![image](https://user-images.githubusercontent.com/100653606/166412239-4040682d-329b-4ef0-8a0e-f49f77a0731d.png)
+> 
+> **Decision Risks:**
+>
+> 1. Charges may be paid when exceed the free use limit.
+> 2. The speed of uploading and downloading data can be affected by network condition.
+> 
+> **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
+> 
 ##### Time: 2022.4.12 How to avoid possible mistakes?
 
 > **Decision members:** All members
@@ -90,14 +121,13 @@ The document consists of two parts:
 >
 > **Decision results:**
 > 
-> 1.There are two types of checks, the first is self-checking and the second is having another group member to check.
-> 2.Create a "check ring" to avoid possible mistakes
+> 1. There are two types of checks, the first is self-checking and the second is having another group member to check.
+> 2. Create a "check ring" to avoid possible mistakes
 > 
->
 > **Decision Risks:**
 >
-> 1.The workload of each team member will increase.
-> 2.Work efficiency may be reduced.
+> 1. The workload of each team member will increase.
+> 2. Work efficiency may be reduced.
 > 
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
 > 

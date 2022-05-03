@@ -86,18 +86,13 @@ The document consists of two parts:
 >
 > **Decision material:** 
 >
-> Group discussion
-> Firebase google documents
+> 1. Group discussion
+> 2. Firebase google documents
 >
 > **Decision results:**
 > 
 >  We compared all the database listed on Firebase and finally select the cloud storage for our project.
 >  
->	Cloud	Realtime	Storage
-Amount of data stored	High-capacity storage	Light weighted storage	High-capacity storage
-Type of data stored	Structured data	Structured data	"Unstructured data such as
-images, videos and audios, etc."
-Query efficiency	Fast and accurate	Fast but not precise	Normal
 ![image](https://user-images.githubusercontent.com/100653606/166412239-4040682d-329b-4ef0-8a0e-f49f77a0731d.png)
 > 
 > **Decision Risks:**
@@ -129,7 +124,7 @@ Query efficiency	Fast and accurate	Fast but not precise	Normal
 > 1. The workload of each team member will increase.
 > 2. Work efficiency may be reduced.
 > 
-> **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
+> **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1zL6bBy1mA-BDMYINQeXaFdCgvZHBLW20/edit#gid=827619485)
 > 
 ##### Time: 2022.4.12 How many nutritionists are best for a client?
 

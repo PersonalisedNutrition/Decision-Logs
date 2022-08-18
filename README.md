@@ -6,7 +6,7 @@
 【012】放弃devops记录工作进展，使用newsletter记录任务内容
 【011】工作分配问题
 
-#####【011】 Time: 2022.8.7 Working areas divided
+##### Time: 2022.8.7 【011】 Working areas divided
 > **Decision members:** All members
 >
 > **Decision-making situations:** All agreed

@@ -1,17 +1,43 @@
 ## Decision Record
 
 ---
-【014】
-【013】只维护一个Decision记录
-【012】放弃devops记录工作进展，使用newsletter记录任务内容
-【011】工作分配问题
 
-##### Time: 2022.8.7 【011】 Working areas divided
+##### Time: 2022.8.7 【013】 Use Git-Hub to track the decisions
 > **Decision members:** All members
 >
 > **Decision-making situations:** All agreed
 >
-> **Decision topic:** Working areas divided
+> **Decision topic:**  Give up the excle file which record the decisions.
+>
+> **Decision material:**  https://github.com/PersonalisedNutrition/COMP8715-Nutrition-Project/edit/main/README.md
+>
+> **Decision results:** Update the decision logs in this page
+>
+> **Decision Risks:** NA
+>
+> **Decision process and decision analysis:** Also update the links in landing page.
+
+##### Time: 2022.8.7 【012】 Use newsletter to record tasks, give up devops
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:**  Use newsletter to record tasks, give up devops
+>
+> **Decision material:**  https://drive.google.com/drive/folders/1HIpgdxuxjfJruCtvwNC3l2SuTSx6FTpc?usp=sharing
+>
+> **Decision results:** Give up devops. But restart it if it is needed.
+>
+> **Decision Risks:** NA
+>
+> **Decision process and decision analysis:** Because the devops need to add the items in it, and the news letter can clear show what tasks we have. So the devops are useless.
+
+##### Time: 2022.8.7 【011】 Working field
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:** Working areas are divided.
 >
 > **Decision material:** NA
 >
@@ -20,12 +46,14 @@
 > Holding the meeting(Meeting aganda, news letter), and design the tasks.
 > Connect with client and nutritionists: Shuyi
 > Paper works: Yuhao (Decision log, Risk, Reflection, Meeting minutes, Checking Ring and so on)
-> Web site: Tianqi, Shiyun 
-> Data base
+> Web site: Tianqi, Shiyun, Siyuan, Shuyi.
+> Data base: Xinyue, Hengtong, Yuhao.
+> Audit: All group members, ppt:Shuyi. 
+> Landing page: Shiyun, Yuhao, Shuyi, Tianqi. 
 > **Decision Risks:** NA
 >
 > **Decision process and decision analysis:** NA
-#####【010】 Time: 2022.8.1 Made a survey to collect the information and logs.
+##### Time: 2022.8.1 【010】Made a survey to collect the information and logs.
 > **Decision members:** All members with Ric
 >
 > **Decision-making situations:** All agreed
@@ -41,7 +69,7 @@
 >
 > **Decision process and decision analysis:** Because the app can not use for collecting data.
 
-#####【009】 Time: 2022.8.1 Add a web site for nutritionist. 
+##### Time: 2022.8.1 【009】 Add a web site for nutritionist. 
 > **Decision members:** All members
 >
 > **Decision-making situations:** All agreed
@@ -62,7 +90,7 @@
 > **Decision process and decision analysis:** 
 > Have a meeting with Ric. And need more meeting with nutritionists.
 
-#####【008】 Time: 2022.7.25 Add two new members for S2.
+##### Time: 2022.7.25【008】 Add two new members for S2.
 > **Decision members:** All members
 >
 > **Decision-making situations:** All agreed
@@ -77,7 +105,7 @@
 >
 > **Decision process and decision analysis:** NA
 
-#####【007】 Time: 2022.5.02 Which database are suitable for the project?
+##### Time: 2022.5.02 【007】Which database are suitable for the project?
 
 > **Decision members:** All members
 >
@@ -103,7 +131,7 @@
 > 
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
 > 
-#####【006】 Time: 2022.4.12 How to avoid possible mistakes?
+##### Time: 2022.4.12 【006】How to avoid possible mistakes?
 
 > **Decision members:** All members
 >
@@ -127,7 +155,7 @@
 > 
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1zL6bBy1mA-BDMYINQeXaFdCgvZHBLW20/edit#gid=827619485)
 > 
-#####【005】 Time: 2022.4.12 How many nutritionists are best for a client?
+##### Time: 2022.4.12 【005】 How many nutritionists are best for a client?
 
 > **Decision members:** All members
 >
@@ -152,7 +180,7 @@
 >
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
 > 
-#####【004】 Time: 2022.3.21 What we still need to do for the Landing Page.
+##### Time: 2022.3.21 【004】 What we still need to do for the Landing Page.
 
 > **Decision members:** Members responsible for producing Landing pages include:
 >
@@ -192,7 +220,7 @@
 
 
 
-#####【003】 Time: 2022.3.21 Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
+##### Time: 2022.3.21 【003】 Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
 
 > **Decision members:** All members
 >
@@ -219,7 +247,7 @@
 
 
 
-#####【002】 Time: 2022.3.17 Conduct Feedback meetings to discuss possible suggestions. Set next goals. 
+##### Time: 2022.3.17 【002】 Conduct Feedback meetings to discuss possible suggestions. Set next goals. 
 
 > **Decision members:** All members
 >
@@ -281,7 +309,7 @@
 
 
 
-#####【001】 Time: 2022.3.15 Make use of the feedback of ‘Many Eyes’ evaluations.
+##### Time: 2022.3.15 【001】 Make use of the feedback of ‘Many Eyes’ evaluations.
 
 > **Decision members:** All members
 >
@@ -309,7 +337,7 @@
 >
 > **Decision process and decision analysis:** [link to the document]()
 
-#####【000】 Time: 2022.3.15 Decision log templates
+##### Time: 2022.3.15 【000】 Decision log templates
 > **Decision members:** All members
 >
 > **Decision-making situations:** All agreed

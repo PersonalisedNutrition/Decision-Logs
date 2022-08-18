@@ -1,8 +1,83 @@
 ## Decision Record
 
 ---
+【014】
+【013】只维护一个Decision记录
+【012】放弃devops记录工作进展，使用newsletter记录任务内容
+【011】工作分配问题
 
-##### Time: 2022.5.02 Which database are suitable for the project?
+#####【011】 Time: 2022.8.7 Working areas divided
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:** Working areas divided
+>
+> **Decision material:** NA
+>
+> **Decision results:** 
+> Speak person: Shuyi, Yuhao
+> Holding the meeting(Meeting aganda, news letter), and design the tasks.
+> Connect with client and nutritionists: Shuyi
+> Paper works: Yuhao (Decision log, Risk, Reflection, Meeting minutes, Checking Ring and so on)
+> Web site: Tianqi, Shiyun 
+> Data base
+> **Decision Risks:** NA
+>
+> **Decision process and decision analysis:** NA
+#####【010】 Time: 2022.8.1 Made a survey to collect the information and logs.
+> **Decision members:** All members with Ric
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:** Made a survey to collect the information and logs.
+>
+> **Decision material:** The survey.doc and the clearance.doc.
+>
+> **Decision results:** Use the survey to collect two kind of informations: users' basic information, user's daily logs.
+> the survey will be modified by nutritionists and need a clearance to tutorial
+>
+> **Decision Risks:** So many items will be collect, and the nutritionists' opinions maybe delay the process
+>
+> **Decision process and decision analysis:** Because the app can not use for collecting data.
+
+#####【009】 Time: 2022.8.1 Add a web site for nutritionist. 
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:** Add a web site for nutritionist. 
+>
+> **Decision material:** Contract
+>
+> **Decision results:** Make new plan for this semester. Ric and nutritionists will give us help during this sesmester.
+> For the web, it should have these functions: 
+> 1 nutritionists can login to the system
+> 2 nutritionists can add comment on the logs
+> 3 nutritionists can look throught the logs which belongs to him
+> 4 other functions that client want or nutritionist want.
+>
+> **Decision Risks:** NA
+>
+> **Decision process and decision analysis:** 
+> Have a meeting with Ric. And need more meeting with nutritionists.
+
+#####【008】 Time: 2022.7.25 Add two new members for S2.
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:** Add two new members for S2.
+>
+> **Decision material:** Contract.
+>
+> **Decision results:** Team add Siyuan He and Hengtong Wu
+>
+> **Decision Risks:** NA
+>
+> **Decision process and decision analysis:** NA
+
+#####【007】 Time: 2022.5.02 Which database are suitable for the project?
 
 > **Decision members:** All members
 >
@@ -28,7 +103,7 @@
 > 
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
 > 
-##### Time: 2022.4.12 How to avoid possible mistakes?
+#####【006】 Time: 2022.4.12 How to avoid possible mistakes?
 
 > **Decision members:** All members
 >
@@ -52,7 +127,7 @@
 > 
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1zL6bBy1mA-BDMYINQeXaFdCgvZHBLW20/edit#gid=827619485)
 > 
-##### Time: 2022.4.12 How many nutritionists are best for a client?
+#####【005】 Time: 2022.4.12 How many nutritionists are best for a client?
 
 > **Decision members:** All members
 >
@@ -77,7 +152,7 @@
 >
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1RkY096tJSgi-kvxhQjRj9ckXJtfF_9kK/edit#gid=827619485)
 > 
-##### Time: 2022.3.21 What we still need to do for the Landing Page.
+#####【004】 Time: 2022.3.21 What we still need to do for the Landing Page.
 
 > **Decision members:** Members responsible for producing Landing pages include:
 >
@@ -117,7 +192,7 @@
 
 
 
-##### Time: 2022.3.21 Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
+#####【003】 Time: 2022.3.21 Create Google Drive by ANU email and migrate files from Onedrive to Google Drive. 
 
 > **Decision members:** All members
 >
@@ -144,7 +219,7 @@
 
 
 
-##### Time: 2022.3.17 Conduct Feedback meetings to discuss possible suggestions. Set next goals. 
+#####【002】 Time: 2022.3.17 Conduct Feedback meetings to discuss possible suggestions. Set next goals. 
 
 > **Decision members:** All members
 >
@@ -206,7 +281,7 @@
 
 
 
-##### Time: 2022.3.15 Make use of the feedback of ‘Many Eyes’ evaluations.
+#####【001】 Time: 2022.3.15 Make use of the feedback of ‘Many Eyes’ evaluations.
 
 > **Decision members:** All members
 >
@@ -234,5 +309,19 @@
 >
 > **Decision process and decision analysis:** [link to the document]()
 
+#####【000】 Time: 2022.3.15 Decision log templates
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:** Topics in one sentence
+>
+> **Decision material:** Maybe some doc.
+>
+> **Decision results:** NA
+>
+> **Decision Risks:** NA
+>
+> **Decision process and decision analysis:** NA
 
 

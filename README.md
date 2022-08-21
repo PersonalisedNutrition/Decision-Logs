@@ -1,6 +1,23 @@
 ## Decision Record
 
 ---
+##### Time: 2022.8.20 【014】 Determine log module database tables
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:**  How to design a log table so that it can quickly query the content of the type of tables required.
+>
+> **Decision material:**  https://drive.google.com/drive/folders/1EBECsdKqL4or9WGRNPUXVfJb5RiwICmo
+>
+> **Decision results:** Add type column and table_id column to quickly query the required table information.
+><img width="501" alt="image" src="https://user-images.githubusercontent.com/100653606/185786833-b6971bbd-6e02-40fb-b044-2953ea961e77.png">
+>
+> **Decision Risks:**
+> 1. Increasing the number of table columns may increasing the amount of data and thus increase the storage space cost of the database.
+> 2. Increase the cost of database maintenance and management.
+>
+> **Decision process and decision analysis:** Also update the links in landing page.
 
 ##### Time: 2022.8.7 【013】 Use Git-Hub to track the decisions
 > **Decision members:** All members

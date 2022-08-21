@@ -1,7 +1,34 @@
 ## Decision Record
 
 ---
+##### Time: 2022.8.20 【016】 Web-side user experience optimisation
+
+> **Decision members:** Members from Web group
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:**  Secondary design of the web end, with controls optimised for user experience.
+>
+> **Decision material:**  [Web Preview](https://js.design/f/AFy6ra?p=exj8lED8oB)
+>
+> **Decision results:** 
+>
+> - Make changes to the number and location of controls; 
+> - Add a user settings page; Remove the number of follower and user data completion statistics display controls from the board page; 
+> - Decide to add up to three user alerts on the settings page.
+>
+> **Decision Risks:** 
+>
+> - The optimization of the control experience was designed by members of the web group without stakeholder involvement, which may have led to negative feedback from some users about the optimization.
+> - A new user reminder feature on the user settings page will allow nutritionists to send reminders to users at regular intervals, which may be perceived by users as an intrusion.
+>
+> **Decision process and decision analysis:**
+>
+> - Regarding the modification of controls: overly complex page design may make users feel inconvenient to use, so we decided to keep only the frequently used key functions and key information entry on the first level page as much as possible, hide the necessary controls on the next level, and remove unnecessary controls.
+> - About the new settings page: After consultation between the dietitian and the client, a plan will be provided by the dietitian, which may include a timed reminder to the user to eat. Therefore, we have provided the function of the dietitian to push notifications to the user at regular intervals on the user settings page.
+
 ##### Time: 2022.8.20 【015】 Determine log module database tables
+
 > **Decision members:** Members from Web group and Data group
 >
 > **Decision-making situations:** All agreed
@@ -193,7 +220,6 @@
 > 2. Work efficiency may be reduced.
 > 
 > **Decision process and decision analysis:**[link to the document](https://docs.google.com/spreadsheets/d/1zL6bBy1mA-BDMYINQeXaFdCgvZHBLW20/edit#gid=827619485)
-> 
 ##### Time: 2022.4.12 【005】 How many nutritionists are best for a client?
 
 > **Decision members:** All members
@@ -390,5 +416,4 @@
 > **Decision Risks:** NA
 >
 > **Decision process and decision analysis:** NA
-
 

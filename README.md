@@ -1,21 +1,43 @@
 ## Decision Record
 
 ---
-##### Time: 2022.8.20 【014】 Determine log module database tables
-> **Decision members:** All members
+##### Time: 2022.8.20 【015】 Determine log module database tables
+> **Decision members:** Members from Web group and Data group
 >
 > **Decision-making situations:** All agreed
 >
 > **Decision topic:**  How to design a log table so that it can quickly query the content of the type of tables required.
 >
+> **Reasons:**  To simplify the searching process and make speed up the searching efficiency.
+> 
 > **Decision material:**  https://drive.google.com/drive/folders/1EBECsdKqL4or9WGRNPUXVfJb5RiwICmo
 >
 > **Decision results:** Add type column and table_id column to quickly query the required table information.
 ><img width="501" alt="image" src="https://user-images.githubusercontent.com/100653606/185786833-b6971bbd-6e02-40fb-b044-2953ea961e77.png">
 >
 > **Decision Risks:**
-> 1. Increasing the number of table columns may increasing the amount of data and thus increase the storage space cost of the database.
+> 1. Increasing the number of table columns may increasing the amount of data and thus increasing the storage space cost of the database.
 > 2. Increase the cost of database maintenance and management.
+>
+> **Decision process and decision analysis:** Also update the links in landing page.
+
+##### Time: 2022.8.15 【014】 Add "set reminder" function for nutritionists side or clients side.
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed
+>
+> **Decision topic:**  Add "set reminder" function for nutritionists side or clients side.
+>
+> **Reasons:** 
+> 1.The nutritionists should monitor the client's daily nutritional tasks.
+> 2.Clients have the right to choose to set alerts or not to set alerts
+>
+> **Decision material:**  https://docs.google.com/spreadsheets/d/1PLmOsQnCVrAAO0LpaOhfZcuOYHoYTo4h/edit#gid=827619485
+> <img width="804" alt="image" src="https://user-images.githubusercontent.com/100653606/185787530-94166760-06a7-4ebe-b34e-13c9981083e2.png">
+>
+> **Decision results:** Add "set reminder" function for both nutritionists side and clients side.
+>
+> **Decision Risks:** It may annoy the clients when frequent reminder were sent.
 >
 > **Decision process and decision analysis:** Also update the links in landing page.
 

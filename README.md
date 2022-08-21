@@ -33,7 +33,7 @@
 > 2.Clients have the right to choose to set alerts or not to set alerts
 >
 > **Decision material:**  https://docs.google.com/spreadsheets/d/1PLmOsQnCVrAAO0LpaOhfZcuOYHoYTo4h/edit#gid=827619485
-> <img width="804" alt="image" src="https://user-images.githubusercontent.com/100653606/185787530-94166760-06a7-4ebe-b34e-13c9981083e2.png">
+> <img width="501" alt="image" src="https://user-images.githubusercontent.com/100653606/185787530-94166760-06a7-4ebe-b34e-13c9981083e2.png">
 >
 > **Decision results:** Add "set reminder" function for both nutritionists side and clients side.
 >

@@ -79,7 +79,7 @@
 >
 > **Decision results:** Update the decision logs in this page
 >
-> **Decision Risks:** NA
+> **Decision Risks:** People who first read this record may feel uncovienet to go through all the decisions. 
 >
 > **Decision process and decision analysis:** Also update the links in landing page.
 
@@ -94,7 +94,7 @@
 >
 > **Decision results:** Give up devops. But restart it if it is needed.
 >
-> **Decision Risks:** NA
+> **Decision Risks:** Not so clear compared to Devops. Teammembers may forget their tasks.
 >
 > **Decision process and decision analysis:** Because the devops need to add the items in it, and the news letter can clear show what tasks we have. So the devops are useless.
 
@@ -105,7 +105,7 @@
 >
 > **Decision topic:** Working areas are divided.
 >
-> **Decision material:** NA
+> **Decision material:** Who is responsable for the centein area of works. 
 >
 > **Decision results:** 
 > Speak person: Shuyi, Yuhao
@@ -116,7 +116,7 @@
 > Data base: Xinyue, Hengtong, Yuhao.
 > Audit: All group members, ppt:Shuyi. 
 > Landing page: Shiyun, Yuhao, Shuyi, Tianqi. 
-> **Decision Risks:** NA
+> **Decision Risks:** May left some part of work not assigned to people. And in the future need to change according to the need. 
 >
 > **Decision process and decision analysis:** NA
 ##### Time: 2022.8.1 【010】Made a survey to collect the information and logs.
@@ -142,7 +142,7 @@
 >
 > **Decision topic:** Add a web site for nutritionist. 
 >
-> **Decision material:** Contract
+> **Decision material:** In the contract, we write this inside it. It's about the tasks.
 >
 > **Decision results:** Make new plan for this semester. Ric and nutritionists will give us help during this sesmester.
 > For the web, it should have these functions: 
@@ -151,7 +151,7 @@
 > 3 nutritionists can look throught the logs which belongs to him
 > 4 other functions that client want or nutritionist want.
 >
-> **Decision Risks:** NA
+> **Decision Risks:** Team members need some time to learn the knolodge about deploy the web site.
 >
 > **Decision process and decision analysis:** 
 > Have a meeting with Ric. And need more meeting with nutritionists.
@@ -167,9 +167,9 @@
 >
 > **Decision results:** Team add Siyuan He and Hengtong Wu
 >
-> **Decision Risks:** NA
+> **Decision Risks:** The two numbers don't know the skills what we need.
 >
-> **Decision process and decision analysis:** NA
+> **Decision process and decision analysis:** Because we need more labor for our project. More people means more out put.
 
 ##### Time: 2022.5.02 【007】Which database are suitable for the project?
 
@@ -295,7 +295,7 @@
 >
 > **Decision material:** 
 >
-> ​	NA
+> Where to store our works.
 >
 > **Decision results:**
 >
@@ -398,22 +398,22 @@
 >    6. Shiyun Zhu - Summarize
 > 2. According to the advice, build a *Project log file* to record decisions witch are approved and will be implemented, helping us manage projects better and improve ourselves.
 >
-> **Decision Risks:** NA
+> **Decision Risks:** No people is responsible for the coding work. Some people need too change working scope in the future.
 >
 > **Decision process and decision analysis:** [link to the document]()
 
-##### Time: 2022.3.15 【000】 Decision log templates
+##### Time: 2022.3.15 【000】 Decision log templates(It should be concise)
 > **Decision members:** All members
 >
-> **Decision-making situations:** All agreed
+> **Decision-making situations:** All agreed, Some people may raise up different solutions.
 >
 > **Decision topic:** Topics in one sentence
 >
-> **Decision material:** Maybe some doc.
+> **Decision material:** The content of the decision, what have been decided? Details about the decision topic.
 >
-> **Decision results:** NA
+> **Decision results:** The result of the decision.
 >
-> **Decision Risks:** NA
+> **Decision Risks:** Some potential risks.And how to over come it.
 >
-> **Decision process and decision analysis:** NA
+> **Decision process and decision analysis:** The reason why we need to decide this.And maybe some comments from the future. Whether this decision is good or not.
 

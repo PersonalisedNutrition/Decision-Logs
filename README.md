@@ -1,6 +1,86 @@
 ## Decision Record
 
 ---
+##### Time: 2022.8.22 【021】 Feedback template updated
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** We add some new elements in feed-back excle.
+>
+> **Decision material:** In feedback of the audit, we have different kinds of feedback. Some of it are just say we did good. Some of the suggestions need to take actions soon. So, we decide four kind of suggestions.
+>
+> **Decision results:** Four color and its meaning:
+> Yellow: Import/Useful/To do.
+> Green: Nagative or positive evaluation only.
+> Blue: Need discussiong.
+> Gray: Reject(Need to explan later)
+> 
+> **Decision Risks:** People who don't know the rules will get confused. We list the rules at the second page. 
+>
+> **Decision process and decision analysis:** Some may feedbacks, we need to focus on the most important advice.
+> 
+##### Time: 2022.8.22 【020】 Decision log update rules
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** The way to fill in the decision log(this page)
+>
+> **Decision material:** We already divided in to two group, webpage group and data group. These two group will make decisions by themselves.
+>
+> **Decision results:** For each group, they made their own rules to track the decision log:
+> Web group: before audit 2, Shiyun; audit 2- audit 3, Tianqi; after audit 3, Sihan.
+> Data group: before audit 2, Xinyue; audit 2 - audit 3, Hengtong; after audit 3, Yuhao.
+>
+> **Decision Risks:** Other group members may don't know what happened. So, we need to talk about it on the team meeting
+>
+> **Decision process and decision analysis:** Because each team will generate decisions, and all of the decisions need to be recorded.
+> 
+##### Time: 2022.8.22 【019】 Working area are divided.
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** Team members will focus on one area. (We won't share the same tasks any more.)
+>
+> **Decision material:** We need to follow the tasks from Shuyi assigned to us, and different people will focuse on certain area.
+>
+> **Decision results:** Shuyi will assign the tasks.
+>
+> **Decision Risks:** 1, Shuyi forgets some tasks.(This will delay the process). 2, The tasks are not equal for everyone.(Some team member will have more work load than others.)
+>
+> **Decision process and decision analysis:** If every one knows every part of the work, it will slow down. Because everyone need time to learn.
+> 
+##### Time: 2022.8.22 【018】 Decision sharing policy
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** Every time we made a decision, it should be shared in the group chat.
+>
+> **Decision material:** We need to share decision in time, and make everyone knows.
+>
+> **Decision results:** Yuhao will talk about it every weekly meeting.
+>
+> **Decision Risks:** Once Yuhao is so busy to make a conclusion about the decision log, it may delay many process.
+>
+> **Decision process and decision analysis:** Team members sometimes forget some important decision. So this is make sure every one know what's going on in the project.
+##### Time: 2022.8.22 【017】 Manual document
+> **Decision members:** All members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** We should add a user manual document for user. This will be a task in week 11.
+>
+> **Decision material:** We will write an instruction for nutritionists to learn how to use our website.
+> 
+> **Decision results:** We will finish this task at week 11. Because, at this time, we still at developing state.
+>
+> **Decision Risks:** 1, Maybe we will forget this task. 2 It add some workload on the original plan, maybe we don't have enough time to do that.
+>
+> **Decision process and decision analysis:** We developed an APP and Website for nutritionist, They need to know how to use it. So an manual document is necessary.
+> 
 ##### Time: 2022.8.20 【016】 Web-side user experience optimisation
 
 > **Decision members:** Members from Web group

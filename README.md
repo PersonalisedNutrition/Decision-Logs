@@ -1,7 +1,29 @@
 ## Decision Record
 
 ---
+##### Time: 2022.8.25【022】 Self-built back-end framework
+
+> **Decision members:** Web group members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** What framework to use for website development.
+>
+> **Decision material:** As the development into the next phase, we need to decide as soon as possible what framework to use for web development, the framework should meet the following requirements: 
+>
+> - Database can use firebase.
+> - Can be highly customizable front-end and back-end
+> - Use the technology as much as possible in the scope of everyone's technical reserves. 
+> - Safe and reliable.
+>
+> **Decision results:** designs our own development framework.
+>
+> **Decision Risks:** Designing your own development framework may lead to longer development cycles, bugs in the system, and other risks. 
+>
+> **Decision process and decision analysis:** Since most frameworks are not compatible with the firebase database, and we have to use firebase in order to ensure that we can provide real-time interactive features to users and nutritionists, we need to develop our own framework.
+
 ##### Time: 2022.8.22 【021】 Feedback template updated
+
 > **Decision members:** All members
 >
 > **Decision-making situations:** All agreed.

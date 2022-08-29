@@ -1,6 +1,26 @@
 ## Decision Record
 
 ---
+##### Time: 2022.8.28【023】Web-side framework determination
+
+> **Decision members:** Web group members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** What framework will be used for the development phase.
+>
+> **Decision material:** After carefully studying the development cycle, we realized that if we were to develop the web-side architecture all by ourselves, we would waste a lot of time on writing the basic architecture. Instead, we wanted to focus on the implementation of user requirements and optimization of user experience.
+>
+> And framework development, should take into account the development costs, learning costs.
+>
+> **Decision results:** Decided to use Django for full-end development with a more established base open source architecture.
+>
+> **Decision Risks:** Group members need to learn Django, and try to connect it to firebase, which may delay development.. 
+>
+> **Decision process and decision analysis:** After a detailed understanding of each group member's technology stack and an analysis of the advantages and disadvantages of each framework, the group made that choice based on the development plan.
+>
+> The minutes of the meeting are attached here： [Minutes](https://docs.google.com/document/d/1FjWj_0I9ZUBXTRLtCvJfEXIWWfAC-c6gnNwrWpiWs1Q/edit?usp=sharing)
+
 ##### Time: 2022.8.25【022】 Self-built back-end framework
 
 > **Decision members:** Web group members

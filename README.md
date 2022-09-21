@@ -1,6 +1,22 @@
 ## Decision Record
 
 ---
+##### Time: 2022.9.16【024】Data-side framework determination
+
+> **Decision members:** All group members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** Change date base from storage to real-time model.
+>
+> **Decision material:** When we tried to connect firestore with web backend, we cannot find enough learning meterial. However, we found the real-time mode can suit our project, and meet our design. Also we connect the real-time with website back end successfully.
+>
+> **Decision results:** We changed our database into firebase real-time mode.
+>
+> **Decision Risks:** The storage maybe light weighted. If the client want to use our product for business, it maybe not enough for all the data. So for the extra data, it may be charged.
+>
+> **Decision process and decision analysis:** Real-time can meet our demand, eventhrough it is light weighted, but it is enough for this stage. 
+
 ##### Time: 2022.8.28【023】Web-side framework determination
 
 > **Decision members:** Web group members

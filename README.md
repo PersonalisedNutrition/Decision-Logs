@@ -1,6 +1,22 @@
 ## Decision Record
 
 ---
+##### Time: 2022.10.02【011】Logs database design change
+
+> **Decision members:** All group members
+>
+> **Decision-making situations:** All agreed.
+>
+> **Decision topic:** Change the logs' database design
+>
+> **Decision material:** Before we store the logs's data in seperate tables according to different types of logs.As the client and nutritionist's need, we store all the logs' data of one client in a table.
+>
+> **Decision results:** We changed our logs' database in firebase.
+>
+> **Decision Risks:** As we store all the logs' data in one table, the amount of data stored at once is large, resulting in a slow response of the web page to the display of the database
+>
+> **Decision process and decision analysis:** First have a meeting with client and nutritionist and get their needs.Then the whole team have a meeting together to discuss this decision and finally the data group carry out the corresponding work.
+
 ##### Time: 2022.9.16【010】Data-side framework determination
 
 > **Decision members:** All group members
